@@ -1,8 +1,7 @@
 - Majid Sharifi-Tehrani ( @msht-ir )
 - interested in:
-- SQlServer (SQL) and Access (VBA)
-- C# and VB.NET
-- R (statistics) 
+- SQlServer and MSAccess
+- C# and VB.NET, VBA, SQL, R 
 - avr (micro)
 - 
 <!---
