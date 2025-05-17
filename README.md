@@ -1,8 +1,9 @@
 - Majid Sharifi-Tehrani ( @msht-ir )
 - interested in:
-- SQlServer and MSAccess
-- C# and VB.NET, VBA, SQL, R 
-- avr (micro)
+- SQlServer
+- C#
+- VB.NET, VBA
+- R 
 - 
 <!---
 msht-ir/msht-ir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
